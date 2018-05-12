@@ -1,0 +1,43 @@
+_repo: The-Ladies-Book-of-Useful-InformationCompiled-from-many-sources_26368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Menstruation'
+- !lcsh 'Women -- Health and hygiene'
+- !lcsh 'Sexual ethics'
+- !lcsh 'Cooking for the sick'
+- !lcsh 'Traditional medicine'
+- !lcc 'RA'
+- !lcsh 'Beauty, Personal'
+- !lcsh 'Interior decoration'
+- !lcsh 'Marriage'
+- !lcsh 'Pregnancy'
+- !lcsh 'Physiology -- Popular works'
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Conduct of life -- Early works to 1900'
+- !lcsh 'Cosmetics'
+title: 'The Ladies Book of Useful Information
+
+  Compiled from many sources'
+url: http://www.gutenberg.org/ebooks/26368
